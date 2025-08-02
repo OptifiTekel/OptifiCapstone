@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Gab/OPTIFI/next%20proj/optifi-frontend/app/login/layout.tsx"],"sourcesContent":["export default function LoginLayout({\r\n  children,\r\n}: {\r\n  children: React.ReactNode;\r\n}) {\r\n  return (\r\n    <div className=\"min-h-screen bg-slate-50\">\r\n      {/* No Navigation - Clean login page */}\r\n      {children}\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAe,SAAS,YAAY,EAClC,QAAQ,EAGT;IACC,qBACE,8OAAC;QAAI,WAAU;kBAEZ;;;;;;AAGP","debugId":null}}]
+}

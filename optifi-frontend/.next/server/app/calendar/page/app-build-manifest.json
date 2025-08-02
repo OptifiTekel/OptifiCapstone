@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "/calendar/page": [
+      "static/chunks/[root-of-the-server]__3c43a631._.css",
+      "static/chunks/node_modules_@supabase_node-fetch_browser_b1ac0bb2.js",
+      "static/chunks/node_modules_next_b910dd51._.js",
+      "static/chunks/node_modules_tailwind-merge_dist_bundle-mjs_mjs_b854acb4._.js",
+      "static/chunks/node_modules_@supabase_auth-js_dist_module_6004bf20._.js",
+      "static/chunks/node_modules_5cf81b78._.js",
+      "static/chunks/_e26b2f8f._.js",
+      "static/chunks/app_layout_tsx_68b267f5._.js",
+      "static/chunks/app_not-found_tsx_44ff93cd._.js",
+      "static/chunks/node_modules_next_dist_client_components_builtin_global-error_44ff93cd.js",
+      "static/chunks/_91460d2b._.js",
+      "static/chunks/node_modules_lodash_ac07c302._.js",
+      "static/chunks/node_modules_@popperjs_core_lib_c305c6ec._.js",
+      "static/chunks/node_modules_react-big-calendar_dist_react-big-calendar_esm_70e6c142.js",
+      "static/chunks/node_modules_date-fns_1f40934f._.js",
+      "static/chunks/node_modules_614c5e44._.js",
+      "static/chunks/app_calendar_calendar_93cd807c.css",
+      "static/chunks/app_calendar_page_tsx_44ff93cd._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_6aaa83c7._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc06._.js",
+      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_d575f738.js",
+      "static/chunks/node_modules_next_dist_compiled_0f1b9fd4._.js",
+      "static/chunks/node_modules_next_dist_client_20b209c9._.js",
+      "static/chunks/node_modules_next_dist_445d8acf._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_8e433861._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_01f48b92._.js"
+    ]
+  }
+}

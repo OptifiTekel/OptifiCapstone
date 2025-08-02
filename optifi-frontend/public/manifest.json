@@ -1,0 +1,16 @@
+{
+  "name": "Optifi",
+  "short_name": "Optifi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "description": "Smart financial tracking through OCR and AI-driven insights.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
